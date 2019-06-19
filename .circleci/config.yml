@@ -6,7 +6,7 @@ node_6: &node_6
 
 node_8: &node_8
   docker:
-    - image: node:8@sha256:717f84f9aa6a51a5c2914100812937261551e50a88f2323acc0b1d43a081b6e2
+    - image: node:8@sha256:06adec3330444f71d8fd873600c20d6cec1aed6c26c714c881eebd03391814f2
 
 package_manager: &package_manager
   steps:
